@@ -18,7 +18,7 @@ Phase 4 group project with Brett Zimmerman and Nate Walter
 * [Analysis](#Analyis)
 * [Conclusions](#Conclusion)
 
-<img src=>
+
 
 ## Repository Structure
 
