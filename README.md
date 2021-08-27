@@ -22,6 +22,13 @@ Phase 4 group project with Brett Zimmerman and Nate Walter
 
 ## Repository Structure
 
+.
+├── Experimentation-Notebook
+│   └── Phase-4-EDA_bretts_edits.ipynb
+├── README.md
+├── Sentiment_Analysis_NLP_Model.ipynb
+└── phase-4-dataset.csv
+
 ## Project Overview
 
 This repository analyzes data in the form of Tweets about multiple brands and products to create a natural language processing classification model capable of predicting whether a Tweet is written with positive, neutral, or negative sentiment. Due to imbalance classes the goal of our model is to have a high F1 score, so we know that our predictions are meaningful. By using different machine learning techniques, we are capable of interpreting the customers’ feelings toward our clients’ products, making our model a useful tool for companies interested in allocating their resources to better serve their customers.
