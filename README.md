@@ -21,7 +21,6 @@ Phase 4 group project with Brett Zimmerman and Nate Walter
 
 
 ## Repository Structure
-
 .
 ├── Experimentation-Notebook
 │   └── Phase-4-EDA_bretts_edits.ipynb
